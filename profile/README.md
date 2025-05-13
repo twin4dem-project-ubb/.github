@@ -1,6 +1,6 @@
-# TWIN4DEM - Digital Twins for Democracy
+# 🔒 TWIN4DEM (Digital Twins for Democracy) - UBB Private Research Repositories
 
-## 🔒 Private Research Repositories
+![UBB Logo](https://www.cs.ubbcluj.ro/wp-content/themes/CSUBB/images/logo.png)
 
 This private repository hosts source code developed by the research staff of
 Babeș-Bolyai University of Cluj-Napoca as part of the TWIN4DEM (Digital Twins
